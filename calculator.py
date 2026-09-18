@@ -1,5 +1,5 @@
  a = float(input("Enter first number:"))
- b = flaot(input("Enter second number:")
+ b = float(input("Enter second number:")
 
    print("Addition=",a+b)
    print("substraction=",a-b)
