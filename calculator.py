@@ -3,3 +3,6 @@
 
  print("Addition =", a + b)
  print("Subraction =", a - b)
+ print("Multiplication =", a * b)
+ print("division =", a / b)
+
